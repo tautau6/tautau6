@@ -9,11 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourname&label=Profile%20Views&color=6A5ACD&style=flat" />
-  <img src="https://img.shields.io/github/followers/yourname?label=Followers&style=flat&color=36BCF7" />
-</p>
-
-<p align="center">
   <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
   <a href="https://orcid.org/"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
@@ -25,18 +20,3 @@
 
 ## 🔬 关于我
 
-```python
-class Researcher:
-    def __init__(self):
-        self.name = "ττ6"
-        self.role = "Researcher"
-        self.interests = [
-            "Physics-Informed Machine Learning",
-            "Computer Vision",
-            "Large Language Models",
-        ]
-        self.mission = "Bridge AI research and real-world engineering"
-        self.motto = "From equations to deployments."
-
-    def research_question(self):
-        return "How do we make AI trustworthy, efficient, and deployable in engineering?"
